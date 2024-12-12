@@ -4,16 +4,16 @@ Repositorio datos de la base de datos Grupo 1 - Aula 02
 
 Lista endpoints
 --------------------------------------------------------------------------
--/
--/dbCheck               // Prueba de conexion a la base de datos
--/usuario/list          // Lista todos los usuarios
--/usuario/show/{id}     // Enseña informacion usuario segun id
--/aula                  // Lista todas las aulas 
--/fichaje               // Lista todos los fichajes
--/insert/{table_name}   // Insert de datos según la tabla 
--/update/{table_name}   // Update de datos según la tabla
--/delete/{table_name}   // Delete de datos según la tabla
--/select/{table_name}   // Select de datos según la tabla
+-/<br>
+-/dbCheck               // Prueba de conexion a la base de datos <br>
+-/usuario/list          // Lista todos los usuarios<br>
+-/usuario/show/{id}     // Enseña informacion usuario segun id<br>
+-/aula                  // Lista todas las aulas <br>
+-/fichaje               // Lista todos los fichajes<br>
+-/insert/{table_name}   // Insert de datos según la tabla<br> 
+-/update/{table_name}   // Update de datos según la tabla<br>
+-/delete/{table_name}   // Delete de datos según la tabla<br>
+-/select/{table_name}   // Select de datos según la tabla<br>
 ---------------------------------------------------------------------------
 
 A continuación, imagenes de pruebas según cada endpoint
